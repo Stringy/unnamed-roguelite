@@ -1,0 +1,20 @@
+[remap]
+
+importer="vnen.tiled_tileset_importer"
+type="TileSet"
+path="res://.import/dawn_of_the_gods.tsx-806bc9a3293305d4f546825bc54d3d0b.res"
+
+[deps]
+
+source_file="res://textures/tsx/dawn_of_the_gods.tsx"
+dest_files=[ "res://.import/dawn_of_the_gods.tsx-806bc9a3293305d4f546825bc54d3d0b.res" ]
+
+[params]
+
+custom_properties=true
+tile_metadata=false
+image_flags=7
+embed_internal_images=false
+save_tiled_properties=false
+apply_offset=false
+post_import_script=""
